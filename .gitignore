@@ -1,2 +1,3 @@
 *.geany
 *.out
+.ipynb_checkpoints/*
